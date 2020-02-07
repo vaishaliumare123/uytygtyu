@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<hibernate-mapping>
+
+<class name="login_entity" tablename="login">
+<property name="username"> </property>
+<property name="password"> </property>
+</class>
+</hibernate-mapping>
